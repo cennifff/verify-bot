@@ -32,6 +32,5 @@ IMPORTANT
 
 The bot role MUST be above the verification role in Discord.
 
-═══════════════════════════════════════════════
         Developed & Designed by Cenniff
-═══════════════════════════════════════════════# verify-bot
+
